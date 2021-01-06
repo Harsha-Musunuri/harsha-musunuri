@@ -15,9 +15,7 @@ I'm an engineer. I was born in a small town called Khammam in India. I love spen
 
 ---
 
-<script src="https://apis.google.com/js/platform.js"></script>
 
-<div class="g-ytsubscribe" data-channelid="UCM_ldhK1fD5x4s_oTnf5qxA" data-layout="full" data-count="default"></div>
 
 
 
