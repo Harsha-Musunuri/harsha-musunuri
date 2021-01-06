@@ -1,11 +1,11 @@
-### Namastey, I am Harsha 👋
+### Hallo, I am Harsha 👋
 
 <!--
 **deshraj/deshraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 I'm an engineer. I was born in a small town called Prayagraj (formerly known as Allahabad) in India. I like to tinker with new technologies and build useful tools.
-
+I'm an engineer. I was born in a small town called Khammam in India. I love spending my free time understanding recent advancements in ML and occasionally, making acoustic covers for my YouTube Channel[Harsha Musunuri](https://www.youtube.com/HarshaMusunuri).
 - 🔭 I'm currently working at [Tesla Autopilot](http://tesla.com/autopilotai).
 - ⚡ I co-founded a startup, [Caliper](https://medium.com/caliper/introducing-caliper-3109fbd84513). Failed but learned a lot.
 - 😅 Fun fact: I once booked the train tickets from destination to source instead of source to destination and I realized about this after reaching the railyway station. 
