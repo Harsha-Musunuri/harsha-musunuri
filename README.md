@@ -13,5 +13,9 @@ I'm an engineer. I was born in a small town called Khammam in India. I love spen
 - 😅 Fun facts: I once spent 16 hours playing Watch Dogs by Ubisoft & I once had an experience of "about to be fined" moment for an invalid train ticket but no cash in hand and the inspector can take only cash (We have friends for a reason :P)
 
 📫 I'm best reached via [email](harsha.musu@gmail.com) 
+
 ---
 
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCM_ldhK1fD5x4s_oTnf5qxA" data-layout="full" data-count="default"></div>
