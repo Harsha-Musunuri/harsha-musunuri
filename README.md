@@ -10,7 +10,7 @@ I'm an aspiring machine learning engineer. I was born in a small town called Kha
 - 🌱 I’m currently learning to bridge my understanding in Deploying ML applications to production that can impact millions of lives.
 - 👯 I’m always happy to collaborate on Deep Learning Frameworks on Object Detection and Reinforcement Learning. 
 - 💬 Ask me about Bayesian Statistics, Markov Chains, Variational Bayesian, Monte Carlo methods, SVD, Reinforcment Learning, Recommender Systems. 
-- 😅 Fun facts: I once spent 16 hours playing Watch Dogs by Ubisoft & I once had an experience of "about to be fined" moment for an invalid train ticket but no cash in hand and the inspector can take only cash (We have friends for a reason :P)
+- 😅 Fun facts: I once spent 16 hours playing Watch Dogs by Ubisoft & I once had an experience of buying an invalid train ticket but no cash in hand and the inspector can take only cash (We have friends for a reason :P)
 
 📫 I'm best reached via [email](harsha.musu@gmail.com) 
 
