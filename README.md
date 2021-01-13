@@ -4,7 +4,7 @@
 **Harsha-Musunuri/harsha-musunuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm an aspiring machine learning engineer. I was born in a small town called Khammam in India. I love spending my free time understanding recent advancements in ML and occasionally, making acoustic covers for my YouTube Channel [Harsha Musunuri](https://www.youtube.com/HarshaMusunuri).
+I'm an aspiring machine learning engineer. I love spending my free time understanding recent advancements in ML and occasionally, making acoustic covers for my YouTube Channel [Harsha Musunuri](https://www.youtube.com/HarshaMusunuri).
 
 - 🔭 I’m currently working as a Machine Learning Research Assistant in Rutgers Machine Learning Lab (RUML) advised by Prof.Sungjin Ahn.
 - 🌱 I’m currently learning to bridge my understanding in Deploying ML applications to production that can impact millions of lives.
