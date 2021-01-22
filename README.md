@@ -15,7 +15,7 @@ I have 3.5 years of experience in software industry (Java, Python, React, SQL) a
 <!-- - 😅 Fun facts: I once spent 16 hours playing Watch Dogs by Ubisoft & I once had an experience of buying an invalid train ticket but no cash in hand and the inspector can take only cash (We have friends for a reason :P) -->
 
 
-📫 You can reach via emai: sriharsha.musunuri@rutgers.edu
+📫 You can reach me via email @ sriharsha.musunuri@rutgers.edu
 
 ---
 
