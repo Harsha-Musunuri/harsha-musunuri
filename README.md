@@ -8,10 +8,10 @@ I'm an aspiring Full-Stack Machine Learning engineer. I believe Machine Learning
 
 I have 3.5 years of experience in software industry (Java, Python, React, SQL) at Citigroup.
 
-- 🔭 I’m currently working as a Machine Learning Research Assistant in Rutgers Machine Learning Lab (RUML) advised by Prof.Sungjin Ahn.
-- 🌱 I’m currently learning to bridge my understanding in Scaling/Deploying ML applications.
-- 👯 I’m always happy to collaborate on Deep Learning Frameworks on Object Detection and Reinforcement Learning. 
-- 💬 Ask me about Markov Chains, Variational Bayesian, Monte Carlo methods, SVD, Reinforcment Learning, Computer Vision and NLP. 
+- I’m currently working as a Machine Learning Research Assistant in Rutgers Machine Learning Lab (RUML) advised by Prof.Sungjin Ahn.
+- I’m currently learning to bridge my understanding in Scaling/Deploying ML applications.
+- I’m always happy to collaborate on Deep Learning Frameworks on Object Detection and Reinforcement Learning. 
+- Ask me about Markov Chains, Variational Bayesian, Monte Carlo methods, SVD, Reinforcment Learning, Computer Vision and NLP. 
 <!-- - 😅 Fun facts: I once spent 16 hours playing Watch Dogs by Ubisoft & I once had an experience of buying an invalid train ticket but no cash in hand and the inspector can take only cash (We have friends for a reason :P) -->
 
 
