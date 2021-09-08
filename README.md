@@ -11,7 +11,7 @@ I have ~4 years of experience in software industry (Java, Python, HTML/CSS, Reac
 
 - I am currently solving Art Authentication problem at Artrendex, Inc with Deep Learning Methods.
 - I'm also focusing on MS Thesis research understanding GAN-Inversion under Prof.Dimitris N. Metaxas's guidance at CBIM Lab @ Rutgers.
-- Previosuly worked as a Machine Learning Research Assistant in Rutgers Machine Learning Lab (RUML) advised by Prof.Sungjin Ahn.
+- Previosuly worked as a Deep Learning Research Intern in Rutgers Machine Learning Lab (RUML) advised by Prof.Sungjin Ahn.
 
 
 📫 You can reach me via email @ sriharsha.musunuri@rutgers.edu
