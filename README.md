@@ -1,4 +1,4 @@
-### Hallo, I am Harsha 👋
+### Hello, I am Harsha 👋
 
 <!--
 **Harsha-Musunuri/harsha-musunuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
