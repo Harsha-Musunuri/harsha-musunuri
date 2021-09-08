@@ -5,7 +5,7 @@
 -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsha-musunuri/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/harsha_musunuri) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/harshamusunuri)
 
-I'm a Deep Learning Researcher. I like to solve Computer Vision or Speech related problems. I occasionally, make acoustic covers for my YouTube Channel [Harsha Musunuri](https://www.youtube.com/HarshaMusunuri).
+I'm a Deep Learning Researcher. I like to solve Computer Vision or Speech related problems.
 
 I have ~4 years of experience in software industry (Java, Python, HTML/CSS, React, SQL) at Citigroup.
 
