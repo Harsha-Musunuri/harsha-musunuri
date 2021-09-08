@@ -9,7 +9,7 @@ I'm a Deep Learning Researcher. I like to solve Computer Vision or Speech relate
 
 I have ~4 years of experience in software industry (Java, Python, HTML/CSS, React, SQL) at Citigroup.
 
-- I am currently solving Art Authentication problem at Artrendex, Inc with Deep Learning Methods
+- I am currently solving Art Authentication problem at Artrendex, Inc with Deep Learning Methods.
 - I'm also focusing on MS Thesis research understanding GAN-Inversion under Prof.Dimitris N. Metaxas's guidance at CBIM Lab @ Rutgers.
 - Previosuly worked as a Machine Learning Research Assistant in Rutgers Machine Learning Lab (RUML) advised by Prof.Sungjin Ahn.
 
